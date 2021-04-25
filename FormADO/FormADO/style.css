@@ -1,0 +1,23 @@
+﻿body {
+    font-size: 75%;
+    font-family: verdana,arial,'sans serif';
+    /*background-color: #B3C3CA;*/
+    color: #153744;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 250%;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 220%;
+    color: blue;
+}
+
+h3 {
+    font-size: 200%;
+    color: #76923C;
+}
+
